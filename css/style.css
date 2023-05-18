@@ -13,5 +13,19 @@ body{
 #container{
     width: 750px;
     margin: 0 auto;
-    border: 1px solid red;
+    
+}
+
+#topo{
+    height: 150px;
+    background: url(../imagens/detalhe-topo.png) no-repeat right top;
+    padding-top: 25px;
+    
+}
+
+.logo{
+    width: 152px;
+    height: 66px;
+    background: url(../imagens/logo.png);
+    text-indent: -30000px;
 }
