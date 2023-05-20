@@ -2,4 +2,5 @@
  
 <h2>Site de Notícia</h2>
 
-![image](https://github.com/Allyssonantos/noticias-cidade/assets/68858220/e0e9809a-5ba3-4a2b-8b11-3909c40e0f48)
+![image](https://github.com/Allyssonantos/noticias-cidade/assets/68858220/e28c0d45-a0e5-4ec8-bfd6-a5eb36fcd806)
+
