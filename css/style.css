@@ -76,3 +76,28 @@ body.fotos #navegacao a#fotos
     background: #de003e;
     cursor: text;
 }
+
+/* Configuração layout de tres colunas */
+
+#conteudo{
+    margin-top: 60px;
+    float: left;
+   
+}
+
+#primario{
+    width: 270px;
+    float: left;
+    
+}
+
+#secundario{
+    width: 270px;
+    float: left;
+}
+
+#lateral{
+    width: 160px;
+    float: left;
+    
+}
