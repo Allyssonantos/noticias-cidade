@@ -85,7 +85,14 @@ body.fotos #navegacao a#fotos
    
 }
 
-#primario{
+#lateral{
+    width: 160px;
+    float: left;
+    margin: 0 0 20px -750px;
+    
+}
+
+ #tres-colunas  #primario{
     width: 270px;
     float: left;
     margin: 0 0 20px 195px;
@@ -98,12 +105,7 @@ body.fotos #navegacao a#fotos
     margin: 0 0 20px 15px;
 }
 
-#lateral{
-    width: 160px;
-    float: left;
-    margin: 0 0 20px -750px;
-    
-}
+
 
 /*rodape*/
 #container-rodape{
